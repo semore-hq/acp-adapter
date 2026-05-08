@@ -1,6 +1,6 @@
 {
   "name": "@semore/acp-adapter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ACP (Agentic Commerce Protocol) Shared Payment Token orchestrator adapter — verify + mint SPT, merchant ack helpers.",
   "license": "Apache-2.0",
   "author": "Semore Founding Team <semore.hq@gmail.com>",
